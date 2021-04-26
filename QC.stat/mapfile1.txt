@@ -1,0 +1,8 @@
+sample2	mm.c.2.sorted.bam	group1
+sample8	mm.c.8.sorted.bam	group1
+sample10	mm.c.10.sorted.bam	group1
+sample11	mm.c.11.sorted.bam	group1
+sample1	mm.c.1.sorted.bam	group2
+sample6	mm.c.6.sorted.bam	group2
+sample15	mm.c.15.sorted.bam	group2
+sample40	mm.c.40.sorted.bam	group2
